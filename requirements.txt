@@ -1,4 +1,10 @@
+ipykernel==5.4.3
+ipython==7.20.0
+ipython-genutils==0.2.0
 ipywidgets==7.6.3
+jupyterlab-widgets==1.0.0
+notebook==6.2.0
 voila==0.2.6
+wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.5.1
